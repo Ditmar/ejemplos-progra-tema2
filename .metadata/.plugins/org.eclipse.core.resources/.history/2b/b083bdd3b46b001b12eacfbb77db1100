@@ -1,0 +1,23 @@
+package figuras;
+
+public class Triangulo extends Figura {
+
+	@Override
+	public void setColor(String color) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void setSuperficie() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Double getSuperficie() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

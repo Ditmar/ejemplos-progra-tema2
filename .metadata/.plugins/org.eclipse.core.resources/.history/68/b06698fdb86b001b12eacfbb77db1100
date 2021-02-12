@@ -1,0 +1,7 @@
+package figura;
+
+public class Figura {
+	public void imprimir() {
+		System.out.println();
+	}
+}

@@ -1,0 +1,9 @@
+package figuras;
+
+public abstract class Figura {
+	public Figura() {
+		
+	}
+	public abstract void setColor();
+	public abstract Double superficie();
+}

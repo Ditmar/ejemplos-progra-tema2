@@ -1,0 +1,8 @@
+package figura;
+
+public class Circulo {
+	private Double radio;
+	public Circulo() {
+		
+	}
+}

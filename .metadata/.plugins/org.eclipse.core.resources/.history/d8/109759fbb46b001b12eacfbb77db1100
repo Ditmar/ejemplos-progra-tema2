@@ -1,0 +1,28 @@
+package figuras;
+
+public class Circulo extends Figura{
+	private String color;
+	this.superficie = 0;
+	public Circulo() {
+		
+	}
+
+	@Override
+	public void setColor(String color) {
+		// TODO Auto-generated method stub
+		this.color = color;
+	}
+
+	@Override
+	public void setSuperficie(Double superficie) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Double getSuperficie() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+}

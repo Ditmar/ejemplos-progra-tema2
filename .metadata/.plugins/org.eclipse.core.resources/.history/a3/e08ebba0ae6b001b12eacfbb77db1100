@@ -1,0 +1,8 @@
+package account;
+
+public class StructTransaction {
+	private String type;
+	public StructTransaction() {
+		
+	}
+}

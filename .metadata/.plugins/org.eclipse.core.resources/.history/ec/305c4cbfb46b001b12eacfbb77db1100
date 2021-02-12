@@ -1,0 +1,10 @@
+package figuras;
+
+public abstract class Figura {
+	public Figura() {
+		
+	}
+	public abstract void setColor(Strng color);
+	public abstract void setSuperficie();
+	public abstract Double getSuperficie();
+}

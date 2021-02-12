@@ -1,0 +1,8 @@
+package figuras;
+
+public abstract class Figura {
+	public Figura() {
+		
+	}
+	public static Double superficie();
+}
